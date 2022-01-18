@@ -1,0 +1,3 @@
+var nummer = ["a", "b", "c", "d"];
+var nummer = nummer.slice(3, 4);
+console.log(nummer)
